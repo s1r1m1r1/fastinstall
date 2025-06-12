@@ -14,3 +14,14 @@ then
 fi
 export FLUTTER_ROOT="$(asdf where flutter)"
 ```
+
+
+```
+brew install asdf
+```
+```
+brew install --cask google-chrome 
+```
+```
+brew install --cask android-studio
+```

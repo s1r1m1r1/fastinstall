@@ -1,4 +1,4 @@
-{""Freezed BLoC 8.0": {
+{"Freezed BLoC 8.0": {
 		"prefix": "fbloc_8.0",
 		"body": [
 			"import 'package:flutter_bloc/flutter_bloc.dart';",
